@@ -1,3 +1,5 @@
+Aplicación completa con angular 14 Login, rutas, guards, http services y mucho más.
+
 # ProyectoBasicoAngularCli
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
